@@ -1,1 +1,1 @@
-# Java-Mini-Project--Fully-Flexible-Slot-System-For-Shops-Shopping
+# Java-Mini-Project--Fully-Flexible-Slot-System-For-Shops
